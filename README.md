@@ -1,3 +1,3 @@
 # js-sliders
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-sliders)
+Automatic slider in javascript, html and css, ready to insert into any website
