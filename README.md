@@ -2,4 +2,4 @@
 
 Automatic slider in javascript, html and css, ready to insert into any website
 
-[View work on here ⚡️](https://js-sliders.stackblitz.io)
+[View work  here ⚡️](https://js-sliders.stackblitz.io)
